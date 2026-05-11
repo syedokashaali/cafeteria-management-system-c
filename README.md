@@ -24,4 +24,4 @@ This project was developed as a university semester project to improve programmi
 3. Run the executable file.
 
 ## Author
-Syed Okasha Ali
+Syed Akasha Ali
